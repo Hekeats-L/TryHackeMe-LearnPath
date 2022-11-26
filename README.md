@@ -1,4 +1,4 @@
-# TryHackeMe-LearnPath
+# TryHackeMe-LearnPath（持续更新中ing）
 
 TryHackMe网络安全学习平台-在线学习路径相关笔记
 
